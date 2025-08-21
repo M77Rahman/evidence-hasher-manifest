@@ -1,0 +1,14 @@
+{
+  "tool": "evidence_hasher",
+  "version": "1.0.0",
+  "generated_at": "2025-08-11T18:11:59.201065+00:00",
+  "root": "/Users/emdadrahman/Downloads/Evidence-Hasher-Manifest/samples",
+  "entries": [
+    {
+      "path": "note.txt",
+      "size": 42,
+      "modified": 1754935918,
+      "sha256": "0181797613a45ed62f801f335fe9d906d5b43343c578b96df1ed4753a1a814fb"
+    }
+  ]
+}
