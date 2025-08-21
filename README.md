@@ -2,6 +2,7 @@
 Creates and verifies a SHA-256 manifest for files. Useful for audit handoffs and integrity checks.
 
 ## Run
+```bash
 python3 evidence_hasher.py hash --path ./samples
 python3 evidence_hasher.py verify --manifest manifest.json
 
